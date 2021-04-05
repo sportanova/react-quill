@@ -12,6 +12,7 @@
 /node_modules
 
 # Compiled files
+/dist
 /lib
 
 # Packaging artifacts
